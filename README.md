@@ -1,8 +1,4 @@
-# Análisis II - Análisis Matemático II - Matemática 3 — Primer cuatrimestre de 2015
-
-## Equipo docente
-
-- **Clases teóricas:** Constanza Sánchez de la Vega, Claudia Lederman
+# Análisis II — Primer cuatrimestre de 2015
 
 ## Prácticas
 
